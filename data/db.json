@@ -1,0 +1,100 @@
+{
+  "bookMarks": [
+    {
+      "id": 1,
+      "title": "Facebook",
+      "url": "http://facebook.com",
+      "category": "Category A"
+    },
+    {
+      "id": 2,
+      "title": "YouTube",
+      "url": "http://youtube.com",
+      "category": "Category A"
+    },
+    {
+      "id": 3,
+      "title": "Github",
+      "url": "http://github.com",
+      "category": "Category B"
+    },
+    {
+      "id": 4,
+      "title": "LinkedIn",
+      "url": "http://linkedin.com",
+      "category": "Category B"
+    },
+    {
+      "title": "Codeworks",
+      "url": "https://codeworks.me/",
+      "category": "Category B",
+      "id": 5
+    },
+    {
+      "title": "FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/",
+      "category": "Category C",
+      "id": 6
+    },
+    {
+      "title": "Project Code",
+      "url": "https://www.projectcode.me/",
+      "category": "Category C",
+      "id": 7
+    },
+    {
+      "title": "Project Code",
+      "url": "projectcode.me",
+      "category": "Work",
+      "id": 8
+    },
+    {
+      "title": "Daisy UI",
+      "url": "https://daisyui.com/",
+      "category": "UI",
+      "id": 9
+    },
+    {
+      "title": "AlgoExpert",
+      "url": "https://algoexpert.io/",
+      "category": "Learning",
+      "id": 10
+    },
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/",
+      "category": "Category A",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "name": "Category A",
+      "id": 1
+    },
+    {
+      "name": "Category B",
+      "id": 2
+    },
+    {
+      "name": "Category C",
+      "id": 3
+    },
+    {
+      "name": "Work",
+      "id": 4
+    },
+    {
+      "name": "UI",
+      "id": 5
+    },
+    {
+      "name": "Learning",
+      "id": 6
+    },
+    {
+      "name": "UI",
+      "id": 7
+    }
+  ]
+}
